@@ -1,16 +1,4 @@
-# getx_tuts
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This is definately not the projects I'm working on.
+Most of the projects I have are production applications and I'm won't be able to share these code publicly.
+This is the sample architectural implementation of MVVM model in flutter with getX as state management tool.
+I do have great knowledge of provider as state management tool and I'm also familier with clean architecture.
